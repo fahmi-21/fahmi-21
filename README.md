@@ -7,7 +7,12 @@
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 </div>
 
+<div align="center">
+
 <h1>Hi 👋, I'm Fahmi Khairi</h1>
+
+</div>
+
 <h3>Junior Backend Developer | ASP.NET Core Developer</h3>
 
 <p>
