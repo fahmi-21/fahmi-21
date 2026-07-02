@@ -80,21 +80,6 @@ public class FahmiKhairi
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmi-21&layout=compact&theme=tokyonight" />
 </p>
-```
-## ⚡ GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/fahmi-21">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahmi-21&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmi-21&layout=compact&theme=tokyonight"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=fahmi-21&theme=tokyonight"/>
-</p>
-```
-
 ---
 
 ## 📌 Current Focus
