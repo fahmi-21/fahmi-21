@@ -86,25 +86,11 @@ public class FahmiKhairi
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: Add Your LinkedIn Here
-* 📧 Email: Add Your Email Here
-* 💻 GitHub: https://github.com/YOUR_USERNAME
+* 💼 LinkedIn:(https://www.linkedin.com/in/fahmi-khadr-595694379/)
+* 📧 Email: fahmikhadr@gmail.com
+* 💻 GitHub: https://github.com/fahmi-21
 
 ---
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
 
 ### Keep Building 🚀
 
