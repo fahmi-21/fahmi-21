@@ -1,6 +1,5 @@
 <div align="center" width="50">
 
-<h1>Fahmi Khadr</h1>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
@@ -8,7 +7,9 @@
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 </div>
 
-
+<div align="center" width="50">
+<h1>Fahmi Khadr</h1>
+</div>
 <h3>Junior Backend Developer | ASP.NET Core Developer</h3>
 
 <p>
