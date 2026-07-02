@@ -16,7 +16,7 @@
 Passionate about building scalable backend systems, REST APIs, and solving real-world problems with clean and efficient code.
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=flat\&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=fahmi-21\&style=flat\&color=blue)
 
 </div>
 
