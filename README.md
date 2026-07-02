@@ -70,7 +70,8 @@ public class FahmiKhairi
     string CurrentFocus = "Building scalable backend applications";
 }
 ```
-
+## 📊 GitHub Status
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fahmi-21&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=fahmi-21&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmi-21&layout=compact&theme=tokyonight" /> </p>
 ---
 
 ## 📌 Current Focus
